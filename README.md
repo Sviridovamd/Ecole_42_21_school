@@ -39,3 +39,9 @@
 5) https://www.learn-c.org/
 6) https://beginnersbook.com/2015/02/simple-c-programs/
 7) https://www.programmingsimplified.com/c-program-examples
+  
+  
+# MY PROJECTS
+  
+  [libft].(https://github.com/Sviridovamd/libft)
+  This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility functions that you will use during your whole cursus.
