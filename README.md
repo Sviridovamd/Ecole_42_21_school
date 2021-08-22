@@ -20,7 +20,7 @@
 
  * Интерактивный тур, который познакомит вас с основами Git [[ru]](https://githowto.com/ru)
 
- * Нормы, описывающие то, как нужно писать код: [[ ru ]](https://42-21-school.blogspot.com/2019/07/main.html)
+ * Нормы, описывающие то, как нужно писать код: [[ ru ]](https://42-21-school.blogspot.com/2019/07/main.html) [[ pdf en ]](https://github.com/Sviridovamd/Ecole_42_21_school/blob/master/en.norm.pdf)
 
  * Проверка кода через `Norminette` [[ ru ]](https://42-21-school.blogspot.com/2019/07/norminette-21-42.html)
 
