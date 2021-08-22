@@ -40,7 +40,9 @@
 6) https://beginnersbook.com/2015/02/simple-c-programs/
 7) https://www.programmingsimplified.com/c-program-examples
   
-  <details>
+  </details>
+
+---
   
   
 # MY PROJECTS
