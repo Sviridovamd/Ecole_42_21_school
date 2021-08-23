@@ -50,3 +50,15 @@
   [libft](https://github.com/Sviridovamd/libft)
   
   This project is your very first project as a student at 42. You will need to recode a few functions of the C standard library as well as some other utility         functions that you will use during your whole cursus.
+  
+   [ft_printf](https://github.com/Sviridovamd/ft_printf-)
+   
+   This project is pretty straight forward. You will recode printf. You will then be allowed to reuse the function in your future projects. You will mainly learn      how to use variadic arguments.
+   
+   [get_next_line](https://github.com/Sviridovamd/get_next_line)
+   
+   May it be a file, stdin, or even later a network connection, you will always need a way to read content line by line. It is time to start working on this            function, which will be essential for your future projects.
+   
+   [pipex](https://github.com/Sviridovamd/pipex)
+   
+   This project aims to make you understand a bit deeper two concets that you already know: the redirections and the pipes. It is an introductory project for the      bigger UNIX projects that will appear later on in the cursus.
