@@ -66,3 +66,11 @@
    [Philosophers](https://github.com/Sviridovamd/Philosophers)
 
    In this project, you will learn the basics of threading a process. You will learn how to make threads. You will discover the mutex.
+      
+   [ft_server](https://github.com/Sviridovamd/ft_server)
+   
+   This project is intended to introduce you to the basics of system and network administration. It will allow you to install a complete web server, using a            deployment technology named Docker.
+   
+   [ft_sevices](https://github.com/Sviridovamd/ft_services)
+
+   This project consist to clusturing an docker-compose application and deploy it with Kubernetes.
