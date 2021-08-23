@@ -62,3 +62,7 @@
    [pipex](https://github.com/Sviridovamd/pipex)
    
    This project aims to make you understand a bit deeper two concets that you already know: the redirections and the pipes. It is an introductory project for the      bigger UNIX projects that will appear later on in the cursus.
+   
+   [Philosophers](https://github.com/Sviridovamd/Philosophers)
+
+   In this project, you will learn the basics of threading a process. You will learn how to make threads. You will discover the mutex.
